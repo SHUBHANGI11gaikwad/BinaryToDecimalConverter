@@ -15,7 +15,7 @@ This Java program converts binary numbers to decimal numbers.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/BinaryToDecimalConverter.git
+   git clone https://github.com/SHUBHANGI11gaikwad/BinaryToDecimalConverter.git
    ```
    
 2. Navigate to the project directory:
